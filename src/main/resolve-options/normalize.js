@@ -3,7 +3,7 @@ const _get = require("lodash/get");
 const _has = require("lodash/has");
 const enhancedResolve = require("enhanced-resolve");
 const PnpWebpackPlugin = require("pnp-webpack-plugin");
-const TsConfigPathsPlugin = require("tsconfig-paths-webpack-plugin");
+const TsConfigPathsPlugin = require("ts-blink-tsconfig-paths-webpack-plugin");
 const transpileMeta = require("../../extract/transpile/meta");
 
 const DEFAULT_CACHE_DURATION = 4000;

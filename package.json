@@ -1,5 +1,5 @@
 {
-  "name": "dependency-cruiser",
+  "name": "ts-blink-dependency-cruiser",
   "version": "9.17.0",
   "description": "Validate and visualize dependencies. With your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.",
   "keywords": [
@@ -137,7 +137,7 @@
     "semver": "7.3.2",
     "semver-try-require": "3.0.0",
     "teamcity-service-messages": "0.1.11",
-    "tsconfig-paths-webpack-plugin": "3.3.0",
+    "ts-blink-tsconfig-paths-webpack-plugin": "3.3.0",
     "wrap-ansi": "7.0.0"
   },
   "devDependencies": {
